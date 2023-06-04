@@ -2,4 +2,4 @@
 # matlab version
 
 # read data
-data = PendingDeprecationWarning.argsd d
+data = pd.read_csv('data.csv', header=None)
