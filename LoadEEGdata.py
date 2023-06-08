@@ -19,3 +19,4 @@ if __name__ == "__main__":
     LoadEEGData = LoadEEGdata()
     data = LoadEEGData.load_data('S1.mat')
     print(np.shape(data))
+    nj
